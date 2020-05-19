@@ -6,7 +6,7 @@
     "packages/*"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/raphaelscunha/"
+    "access": "public"
   },
   "scripts": {
     "coverage": "jest --coverage",
