@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@raphaelscunha/button",
   "version": "1.0.13",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -12,6 +12,5 @@
     "react": "^15.0.0 || ^16.0.0",
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^4.0.0"
-  },
-  "gitHead": "afc73e5b9b86eda367980e682e4877969b782aff"
+  }
 }
