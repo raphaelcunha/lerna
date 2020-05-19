@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Input = styled.input`
-    border: 1px solid green;
+    border: 1px solid black;
     border-radius: 4px;
     box-sizing: border-box;
     font-size: 16px;
