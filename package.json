@@ -31,5 +31,8 @@
     "react-test-renderer": "^16.13.1",
     "styled-components": "^5.1.0",
     "webpack": "^4.43.0"
+  },
+  "dependencies": {
+    "@lerna/publish": "^3.21.0"
   }
 }
