@@ -5,6 +5,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/raphaelscunha/"
+  },
   "scripts": {
     "coverage": "jest --coverage",
     "unit": "jest",
