@@ -1,5 +1,5 @@
 {
-  "name": "input",
+  "name": "@raphaelscunha/input",
   "version": "1.0.6",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -13,5 +13,5 @@
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^4.0.0"
   },
-  "gitHead": "0cb8def478c20680aa9e8724400ace5519a502b9"
+  "gitHead": "a177c090aece1d7eeb3cf000346b51c1919bb30e"
 }
