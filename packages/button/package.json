@@ -1,6 +1,6 @@
 {
   "name": "@raphaelscunha/button",
-  "version": "0.0.7",
+  "version": "0.0.1",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
@@ -13,5 +13,5 @@
     "react-dom": "^15.0.0 || ^16.0.0",
     "styled-components": "^4.0.0"
   },
-  "gitHead": "676efbadd63328cac213425259f6a43f33834b76"
+  "gitHead": "c01a0176f6ce855635928f9df826474e94cf5ce7"
 }
