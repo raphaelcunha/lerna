@@ -1,6 +1,6 @@
 {
   "name": "@sampleraphaelscunha/button",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
