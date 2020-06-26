@@ -7,7 +7,7 @@ const Button_v1 = styled.button`
     cursor: pointer;
     font-size: 1rem;
     font-weight: 600;
-    padding: 9px 36px;
+    padding: 10px 36px;
 `;
 
 // const Button_v2 = styled.button`
