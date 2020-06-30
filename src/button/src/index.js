@@ -25,6 +25,7 @@ const Button_v3 = styled.button`
   color: blue;
   border-color: blue;
   border-radius: 2px;
+  border: 5px;
   cursor: pointer;
   font-size: 1rem;
   font-weight: 300;
