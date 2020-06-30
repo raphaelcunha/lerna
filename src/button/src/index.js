@@ -23,7 +23,7 @@ const Button_v2 = styled.button`
 const Button_v3 = styled.button`
   background: white;
   color: blue;
-  border-color: blue;
+  border-color: green;
   border-radius: 2px;
   border: 5px;
   cursor: pointer;
