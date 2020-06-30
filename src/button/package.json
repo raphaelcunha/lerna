@@ -1,5 +1,5 @@
 {
-  "name": "@examplesraphaelscunha/teste",
+  "name": "@examplesraphaelscunha/button",
   "version": "0.0.9",
   "main": "lib/index.js",
   "module": "src/index.js",
