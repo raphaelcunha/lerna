@@ -21,11 +21,11 @@ const Button_v2 = styled.button`
 `;
 
 const Button_v3 = styled.button`
-  background: white;
+  background: black;
   color: blue;
   border-color: green;
   border-radius: 2px;
-  border: 5px;
+  border: 10px;
   cursor: pointer;
   font-size: 1rem;
   font-weight: 300;
